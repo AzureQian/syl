@@ -1,5 +1,5 @@
 ---
-title: God is Madoka
+title: 'God is Madoka'
 layout: post
 tags:
 	- others
