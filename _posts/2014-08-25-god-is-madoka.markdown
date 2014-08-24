@@ -2,8 +2,7 @@
 title: 'God is Madoka'
 layout: post
 tags:
-    - youtube
-    - gregarius
+    - others
 ---
 
 ![Madoka](/media/files/2014/08/25/Madoka.jpg)
