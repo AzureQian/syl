@@ -4,7 +4,7 @@ permalink: /:year/:month/:day/:title.html
 name: "落 英 聽 誰 細 數"
 markdown: rdiscount
 
-author: "wayne"
+author: "Azure"
 atom-baseurl: "http://syl.moe"
 
 disqus: "gopherwood"
