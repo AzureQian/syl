@@ -1,7 +1,7 @@
 markdown: rdiscount
 pygments: true
 permalink: /:year/:month/:day/:title.html
-name: "落 英 聽 誰 細 數"
+name: "Journey"
 markdown: rdiscount
 
 author: "Azure"
