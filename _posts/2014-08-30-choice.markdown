@@ -1,6 +1,7 @@
 ---
 title: '选择'
 layout: post
+guid: 5F322F6E-9539-66D2-5D2C-E5B72CB28D7E
 tags:
     - transfer
 ---
