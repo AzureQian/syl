@@ -3,11 +3,5 @@ title: about
 layout: page
 ---
 
-a
-
-> Coder
-
-who involved in 
-
-> [github](https://github.com/AzureQian)
+A boy who lost himself in the journey.
 
