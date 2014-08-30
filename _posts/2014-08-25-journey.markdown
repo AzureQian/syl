@@ -1,5 +1,5 @@
 ---
-title: 'Journey'
+title: '旅'
 layout: post
 tags:
     - others
